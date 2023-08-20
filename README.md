@@ -71,7 +71,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ### 'redux' 
-It was used to manage the games and users state at a constant level.
+It was used to manage the games and users state as a predictable state container.
+ref to https://redux.js.org/
+
+### 'redux react'
+React bindings for Redux
+ref to https://redux.js.org/
 
 ### 'react bootstrap'
 It is an npm package used so as to not have any dependencies on JQuery, where it uses the state directly without having a direct DOM manipulation, making it more reliable.
+ref to https://www.pluralsight.com/guides/how-to-use-react-bootstrap-with-redux
