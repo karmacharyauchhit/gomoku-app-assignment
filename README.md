@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### 'redux' 
+It was used to manage the games and users state at a constant level.
+
+### 'react bootstrap'
+It is an npm package used so as to not have any dependencies on JQuery, where it uses the state directly without having a direct DOM manipulation, making it more reliable.
